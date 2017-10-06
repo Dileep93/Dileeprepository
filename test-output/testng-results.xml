@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65760" started-at="2017-10-05T07:42:38Z" finished-at="2017-10-05T07:43:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65760" started-at="2017-10-05T07:42:38Z" finished-at="2017-10-05T07:43:44Z">
+      <class name="Testng.Seleniumtest">
+        <test-method status="PASS" signature="openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044]" name="openSeleniumDilip" duration-ms="39402" started-at="2017-10-05T13:12:38Z" data-provider="hardCodedBrowsers" finished-at="2017-10-05T13:13:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[49.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void Testng.Seleniumtest.openSeleniumDilip(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.io.FileNotFoundException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSeleniumDilip -->
+        <test-method status="PASS" signature="openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044]" name="openSeleniumDilip" duration-ms="21010" started-at="2017-10-05T13:12:38Z" data-provider="hardCodedBrowsers" finished-at="2017-10-05T13:12:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X 10.11]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void Testng.Seleniumtest.openSeleniumDilip(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.io.FileNotFoundException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSeleniumDilip -->
+        <test-method status="PASS" signature="openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044]" name="openSeleniumDilip" duration-ms="20324" started-at="2017-10-05T13:12:38Z" data-provider="hardCodedBrowsers" finished-at="2017-10-05T13:12:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[54.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X 10.10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void Testng.Seleniumtest.openSeleniumDilip(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.io.FileNotFoundException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSeleniumDilip -->
+        <test-method status="PASS" signature="openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044]" name="openSeleniumDilip" duration-ms="63795" started-at="2017-10-05T13:12:38Z" data-provider="hardCodedBrowsers" finished-at="2017-10-05T13:13:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[latest-1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void Testng.Seleniumtest.openSeleniumDilip(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.io.FileNotFoundException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSeleniumDilip -->
+        <test-method status="PASS" signature="openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044]" name="openSeleniumDilip" duration-ms="44214" started-at="2017-10-05T13:12:38Z" data-provider="hardCodedBrowsers" finished-at="2017-10-05T13:13:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void Testng.Seleniumtest.openSeleniumDilip(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.io.FileNotFoundException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSeleniumDilip -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testng.Seleniumtest@724af044]" name="tearDown" is-config="true" duration-ms="965" started-at="2017-10-05T13:12:58Z" finished-at="2017-10-05T13:12:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openSeleniumDilip status=SUCCESS method=Seleniumtest.openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testng.Seleniumtest@724af044]" name="tearDown" is-config="true" duration-ms="760" started-at="2017-10-05T13:12:59Z" finished-at="2017-10-05T13:13:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openSeleniumDilip status=SUCCESS method=Seleniumtest.openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testng.Seleniumtest@724af044]" name="tearDown" is-config="true" duration-ms="1004" started-at="2017-10-05T13:13:18Z" finished-at="2017-10-05T13:13:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openSeleniumDilip status=SUCCESS method=Seleniumtest.openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testng.Seleniumtest@724af044]" name="tearDown" is-config="true" duration-ms="695" started-at="2017-10-05T13:13:22Z" finished-at="2017-10-05T13:13:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openSeleniumDilip status=SUCCESS method=Seleniumtest.openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Testng.Seleniumtest@724af044]" name="tearDown" is-config="true" duration-ms="1918" started-at="2017-10-05T13:13:42Z" finished-at="2017-10-05T13:13:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=openSeleniumDilip status=SUCCESS method=Seleniumtest.openSeleniumDilip(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:Testng.Seleniumtest@724af044] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testng.Seleniumtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
